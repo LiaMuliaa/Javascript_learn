@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rekursif</title>
+</head>
+<body>
+    <script>
+        // fungsi melakukan perulangan memanggil diri nya sendiri
+        function tampilAngka(n) {
+            // base case untuk menghentikan pengulangan
+            if(n === 0) return;
+            
+            console.log(n);
+            return tampilAngka(n-1);
+        }
+
+        tampilAngka(10);
+    </script>
+</body>
+</html>
