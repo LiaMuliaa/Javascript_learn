@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Mulia",
+        "nrp" : "04567835",
+        "email": "mulia@gmail.com",
+        "jurusan": "Informatika",
+        "idDosenPA": 1
+    },
+    {
+        "nama": "Mila",
+        "nrp" : "04563487",
+        "email": "mila@gmail.com",
+        "jurusan": "Informatika",
+        "idDosenPA": 2
+    },
+    {
+        "nama": "Mita",
+        "nrp" : "04562693",
+        "email": "mita@gmail.com",
+        "jurusan": "Teknik Industri",
+        "idDosenPA": 2
+    }
+]
